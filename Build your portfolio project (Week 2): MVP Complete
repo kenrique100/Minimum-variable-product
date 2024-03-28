@@ -1,0 +1,38 @@
+Research & Project Approval for Image Compression Algorithm
+Concepts
+What’s this “Research & Project approval”?
+This document outlines the approval process for research and project proposals related to image compression algorithms.
+Examples of the past:
+Previous projects have explored various image compression techniques, including:
+Low-Rate Image Compression with Super-Resolution Learning1
+Analysis of Different Image Compression Techniques: A Review2
+Learned Image Compression for Machine Perception3
+Image Compression Algorithm Research Based on Improved LSTM4
+Role
+As a researcher or developer, your role is to propose and implement an innovative image compression algorithm.
+Scope
+The scope of this project includes:
+Developing an image compression algorithm.
+Investigating different classes of image compression.
+Exploring various types of compression algorithms.
+Focusing on the unique aspects of Transform coding.
+Novelty
+Emphasize the novelty of your approach. What sets your algorithm apart from existing methods?
+No Idea? We Have Some for You…
+If you’re unsure where to start, consider the following ideas:
+Transform Coding: Explore the use of Transform coding for image compression.
+Color Quantization: Investigate reducing the color space to representative colors.
+Chroma Subsampling: Take advantage of human visual perception by dropping chrominance information.
+Fractal Compression: Consider fractal-based approaches.
+Machine Learning: Apply machine learning techniques such as Multilayer perceptrons, Convolutional neural networks, or Generative adversarial networks.
+Default Project
+If you need inspiration, you can work on a default image compression project.
+
+
+Tasks
+Define the problem statement.
+Research existing algorithms.
+Propose your novel approach.
+Implement and evaluate the image compression algorithm.
+Remember, this approval process ensures that your project aligns with our research goals and contributes to the field of image compression. Good luck!
+
